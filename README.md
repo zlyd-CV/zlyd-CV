@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 你好，我是 zlyd
 
-<!--
-**zlyd-CV/zlyd-CV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 关于我
 
-Here are some ideas to get you started:
+我是一名充满热情的本科生，目前专注于计算机科学与技术领域的学习与实践。我热爱编程，享受通过代码解决实际问题的过程，并且对新技术保持着浓厚的兴趣和探索精神。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 教育背景
+
+- **学位**: 本科在读
+- **专业**: 计算机科学与技术
+- **主要课程**: 
+  - 数据结构与算法
+  - 计算机网络
+  - 操作系统
+  - 数据库系统
+  - 软件工程
+  - 面向对象程序设计
+
+## 💻 技术技能
+
+### 编程语言
+- Python
+- Java
+- C/C++
+- JavaScript
+- HTML/CSS
+
+### 开发工具与框架
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- MySQL
+- Linux/Unix
+
+### 正在学习
+- 前端框架 (React, Vue.js)
+- 后端开发 (Node.js, Spring Boot)
+- 机器学习基础
+- 算法与数据结构进阶
+
+## 🚀 项目经验
+
+### 个人项目
+正在积极开发和参与各类项目，不断提升实践能力：
+
+- **学习管理系统**: 使用现代Web技术栈开发的学生学习辅助平台
+- **算法题解集**: 整理常见算法问题的解决方案和思路分析
+- **开源贡献**: 积极参与开源社区，为感兴趣的项目贡献代码
+
+## 🌱 当前状态
+
+- 🔭 正在学习: 全栈Web开发技术栈
+- 🌱 提升方向: 算法竞赛、系统设计、软件工程实践
+- 👯 寻求合作: 有趣的开源项目或学习小组
+- 💡 兴趣领域: 人工智能、云计算、移动应用开发
+
+## 📊 GitHub 统计
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zlyd-CV&show_icons=true&theme=radical)
+
+## 📫 联系方式
+
+- **GitHub**: [@zlyd-CV](https://github.com/zlyd-CV)
+- **Email**: 欢迎通过 GitHub Issues 联系我
+- **Blog**: 正在筹备中...
+
+## 🎯 个人目标
+
+- 📖 持续学习新技术，保持技术敏感度
+- 💪 参与更多实际项目，积累项目经验
+- 🤝 为开源社区做出贡献
+- 🎓 打好专业基础，为未来发展铺路
+- 🌟 培养解决复杂问题的能力
+
+## 💬 个人格言
+
+> "Stay hungry, stay foolish." - Steve Jobs  
+> 保持饥饿，保持愚钝。持续学习，永不停息。
+
+---
+
+⭐️ 欢迎访问我的项目仓库，如果觉得有帮助请给个 Star！
