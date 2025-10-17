@@ -10,106 +10,113 @@
 
 ## 🎓 关于我
 
-我是一名充满热情的本科生，目前专注于计算机科学与技术领域的学习与实践。我热爱编程，享受通过代码解决实际问题的过程，并且对新技术保持着浓厚的兴趣和探索精神。
+我是一名专注于医学人工智能（Medical AI）与计算机视觉（Computer Vision）的学习者与实践者，关注医学影像分析、病理图像理解以及多模态医学数据建模等方向。目前主要在学习与实践：图像分割/检测/注册、表示学习、模型可解释性与评估、以及高质量复现实验与复现报告撰写。
+
+> 研究兴趣（持续更新）：Medical Imaging (CT/MRI/病理切片)、Foundation Models in Vision/Multimodal、Promptable Segmentation、Self-Supervised/Weakly-Supervised Learning、Robustness & Generalization、Evaluation Metrics for Medical AI.
 
 ## 📚 教育背景
 
-- **学位**: 本科在读
-- **专业**: 计算机科学与技术
-- **主要课程**: 
-  - 数据结构与算法
-  - 计算机网络
-  - 操作系统
-  - 数据库系统
-  - 软件工程
-  - 面向对象程序设计
+- 学位：本科在读  
+- 专业：计算机科学与技术  
+- 主要课程：数据结构与算法、计算机网络、操作系统、数据库系统、软件工程、面向对象程序设计
 
-## 💻 技术技能
+## 🚀 学习与项目（以医学AI与CV为核心）
 
-<div align="center">
-
-### 编程语言
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 开发工具与框架
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 正在学习
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
-## 🚀 项目经验
-
-### 个人项目
-正在积极开发和参与各类项目，不断提升实践能力：
-
-- **学习管理系统**: 使用现代Web技术栈开发的学生学习辅助平台
-- **算法题解集**: 整理常见算法问题的解决方案和思路分析
-- **开源贡献**: 积极参与开源社区，为感兴趣的项目贡献代码
+- 学习型实践：围绕医学影像处理（分割/检测/配准）与视觉基础模型的探索，撰写学习笔记与实验报告
+- 论文复现：针对感兴趣的CV/MedAI论文进行小规模数据集复现与对比实验（欢迎一起交流改进设置）
+- 开源参与：关注相关开源工具链与数据集，尝试提交改进或文档完善（Issue/PR）
 
 ## 🌱 当前状态
 
-- 🔭 正在学习: 全栈Web开发技术栈
-- 🌱 提升方向: 算法竞赛、系统设计、软件工程实践
-- 👯 寻求合作: 有趣的开源项目或学习小组
-- 💡 兴趣领域: 人工智能、云计算、移动应用开发
+- 🔭 正在学习：医学影像分割与多模态建模（如基于视觉大模型的下游适配）
+- 🌱 提升方向：高质量复现实验、可复现实验脚本/报告、稳健性与泛化评估
+- 👯 寻求合作：医学影像公开数据集上的复现、评测与Benchmark共建
+- 💡 兴趣领域：Medical AI、Computer Vision、Multimodal Learning
+
+## 🏅 学习领域获奖情况
+
+以下为示例格式（欢迎将具体信息替换为真实经历）：
+
+- [年份/赛事] [奖项等级] — [作品/课题名称]（可选：链接/证书编号）
+- [年份/赛事] [奖项等级] — [方向/主题简介]
+
+> 如果需要，我可以根据你提供的具体信息，替你完善为标准化、可验证的简历/README条目。
+
+## 📝 论文情况
+
+如有论文/预印本/在投稿件，可按以下格式补充（暂以占位符示例）：
+
+- 作者. 标题. 期刊/会议, 年份. 状态：[已录用/在投/预印本]. [PDF/ArXiv/DOI 链接]
+- 作者. 标题. Workshop/Challenge, 年份. 结果/排名（可选）
+
+> 也可添加“开源代码链接”“数据集/实验配置”“可复现实验脚本”，便于他人复用与引用。
+
+## 🌐 个人官网
+
+- 官网主页：暂未上线（计划使用 GitHub Pages/静态站点搭建）。
+- 预留链接位：https://your-domain.com （建站后替换）
+- 建议内容：个人简介、研究兴趣、项目/论文列表、笔记与博客、联系渠道。
 
 ## 📊 GitHub 统计
 
 <div align="center">
 
-### 📈 个人统计概览
+### 📈 个人统计概览（浅蓝背景）
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/zlyd-CV?label=Followers&style=social" alt="Followers" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/zlyd-CV?label=Total%20Stars&style=social" alt="Total Stars" />
-    </td>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=zlyd-CV&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlyd-CV&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlyd-CV&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zlyd-CV&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=F3F9FF&title_color=0B5394&text_color=1F2937&icon_color=0B5394&border_color=E5E7EB" alt="GitHub Stats" />
 </p>
 
-### 🔥 连续贡献统计
+<hr/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlyd-CV&theme=default&hide_border=true" alt="GitHub Streak" />
+### 🗣️ 最常用语言（浅橙背景）
+
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlyd-CV&layout=compact&hide_border=false&bg_color=FFF7ED&title_color=9A3412&text_color=1F2937&border_color=FDE68A" alt="Top Languages" />
 </p>
+
+<hr/>
+
+### 🔥 连续贡献统计（浅蓝背景）
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zlyd-CV&hide_border=false&background=F3F9FF&ring=0B5394&fire=EF4444&currStreakNum=1F2937&sideNums=1F2937&currStreakLabel=0B5394&sideLabels=0B5394&dates=6B7280&border=E5E7EB" alt="GitHub Streak" />
+</p>
+
+<hr/>
 
 ### 🏆 GitHub 成就
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zlyd-CV&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=zlyd-CV&theme=flat&no-frame=false&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-### 📊 贡献活动图
+<hr/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlyd-CV&theme=github-light&hide_border=true" alt="Contribution Graph" />
+### 📊 贡献活动图（浅灰背景）
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlyd-CV&bg_color=F8FAFC&color=0B5394&line=0B5394&point=1D4ED8&area=true&hide_border=false" alt="Contribution Graph" />
+</p>
+
+<hr/>
+
+### ➕ 新增概览图表（便于快速了解活跃特征）
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zlyd-CV&theme=default" alt="Summary Stats" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zlyd-CV&theme=default&utcOffset=8" alt="Productive Time (UTC+8)" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zlyd-CV&theme=default" alt="Repos per Language" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zlyd-CV&theme=default" alt="Most Commit Language" />
 </p>
 
 </div>
@@ -120,22 +127,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-zlyd--CV-181717?style=for-the-badge&logo=github)](https://github.com/zlyd-CV)
 [![Email](https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/zlyd-CV/zlyd-CV/issues)
-[![Blog](https://img.shields.io/badge/Blog-筹备中-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](#)
+[![Homepage](https://img.shields.io/badge/Website-个人官网-0B5394?style=for-the-badge&logo=vercel&logoColor=white)](https://your-domain.com)
 
 </div>
-
-## 🎯 个人目标
-
-- 📖 持续学习新技术，保持技术敏感度
-- 💪 参与更多实际项目，积累项目经验
-- 🤝 为开源社区做出贡献
-- 🎓 打好专业基础，为未来发展铺路
-- 🌟 培养解决复杂问题的能力
-
-## 💬 个人格言
-
-> "Stay hungry, stay foolish." - Steve Jobs  
-> 保持饥饿，保持愚钝。持续学习，永不停息。
 
 ---
 
