@@ -21,19 +21,6 @@
 - 专业：医学信息工程
 - 主要学习：深度学习、计算机视觉
 
-## 🚀 学习与项目(最新动态)
-
-- 学习型实践：使用U-Net及其残差、注意力的变体对肝硬化CT图像进行二分类语义分割
-- 论文阅读：《Deep Residual Learning for Image Recognition》
-- 开源参与：无
-
-## 🌱 当前状态
-
-- 🔭 正在学习：视觉transformer模型
-- 🌱 提升方向：对医学数据集进行不同的处理方法比较其效果
-- 👯 寻求合作：暂无意向(因为博主还是个菜鸡)
-- 💡 兴趣领域：医学人工智能、医学影像的三维重建、多模态医学影像分析
-
 ## 🏅 学习领域获奖情况
 
 - [2025-中国大学生计算机设计大赛]---->省级一等奖
@@ -93,18 +80,6 @@
 </p>
 
 <hr/>
-
-### ➕ 概览图表
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zlyd-CV&theme=default" alt="Summary Stats" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zlyd-CV&theme=default" alt="Repos per Language" />
-</p>
-
-</div>
 
 ## 📫 联系方式
 
