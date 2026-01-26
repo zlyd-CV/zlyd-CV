@@ -21,7 +21,7 @@
 
 ## 🔬 学习兴趣 (Research Interests)
 
-* **医学影像分析 (Medical Image Analysis):** simpleITK,VTK等医学图像分析和可视化
+* **医学影像分析 (Medical Image Analysis):** simpleITK,VTK等医学图像分析和可视化.
 * **深度学习 (Deep Learning):** CNN,ViT等深度学习网络,未来或许会学习yolo,库主要为pytorch,monai.
 * **计算机视觉 (Computer Vision):** opencv等库的使用及其对应算法原理.
 
