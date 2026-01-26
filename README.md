@@ -51,11 +51,9 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=zlyd-CV&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="zlyd-CV's trophies" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=zlyd-CV&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br><br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=zlyd-CV&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=false&bg_color=ffffff&border_color=e1e4e8" alt="zlyd-CV's GitHub stats" />
 
