@@ -1,5 +1,7 @@
 # 你好，我是 zlyd-CV 👋
 
+# 注意：个人主页、项目即将引来重构！！！将展示与整理更多有管信息
+
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/zlyd-CV?style=flat-square&logo=github&label=Followers&color=blue)](https://github.com/zlyd-CV?tab=followers)
