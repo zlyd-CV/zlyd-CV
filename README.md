@@ -48,13 +48,8 @@ I haven't published any research papers yet, but maybe soon? I don't have any hi
 ## 📫 Get in Touch
 Always open to discussing academic cooperation, open-source projects, or tech exchanges!
 * **Portfolio:** [https://zlyd-cv.github.io/](https://zlyd-cv.github.io/)
-* **Email:** [zlyd20060615@163.com](mailto:zlyd20060615@163.com) | [zhouluoyidi@gmail.com](mailto:zhouluoyidi@gmail.com)
-* **WeChat:** 19144210452
-
-## 📝 Miscellaneous
-1. **Future Plans:** I hope to get into a good graduate school. I am not highly fixated on the school’s tier, but rather hope to join a good laboratory or research group. To be honest, my current school doesn’t offer many research opportunities. If I can't find a good group, I will continue to work hard to learn knowledge, improve my GitHub, and look at others' open-source code.
-2. **Minecraft:** I really enjoy playing Minecraft, but due to academic busy, I haven't had time to experience various adventure modpacks or fully understand industrial mods (like Immersive Engineering, IC2, Agriculture, Forestry, etc.). I hope that at some point in my life, I can experience all of these mods.
-3. **Mobile Games:** Currently playing *Clash of Clans* (International Server). Tags: #Q080C02P2, #G9RR9VRPQ.
+* **Email:** [zhoulyd@126.com](mailto:zhoulyd@126.com) | [zhouluoyidi@gmail.com](mailto:zhouluoyidi@gmail.com)
+* **WeChat:** zlyd-CV
 
 ---
 ---
@@ -104,12 +99,7 @@ Always open to discussing academic cooperation, open-source projects, or tech ex
 * **Email:** [zlyd20060615@163.com](mailto:zlyd20060615@163.com) | [zhouluoyidi@gmail.com](mailto:zhouluoyidi@gmail.com)
 * **WeChat:** 19144210452
 
-## 📝 其它碎碎念
-1. **未来打算：** 希望考上一个好的研究生，我不是那么看中学校层次，与之相比更希望加入一个好的实验室/课题组。说实话我的学校科研机会也不多。如果不能找到好的课题组并加入的话，我就一直努力学习领域相关知识，努力完善我的GitHub，多多看看别人的开源代码。
-2. **我的世界：** 我特别喜欢玩Minecraft，但是由于学业繁忙一直没有时间体验各种冒险整合包，以及玩懂工业模组（比如沉浸工程,工业2,农业,林业等），希望人生中能有那么一段时间将这些模组都体验一遍吧。
-3. **手游：** 目前在玩的手游：部落冲突国际服，标签：#Q080C02P2, #G9RR9VRPQ。
-
 ---
 <div align="center">
-    <p><i>最后更新于: 2026年4月</i></p>
+    <p><i>最后更新于: 2026年4月22日</i></p>
 </div>
