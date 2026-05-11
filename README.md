@@ -95,11 +95,11 @@ Always open to discussing academic cooperation, open-source projects, or tech ex
 
 ## 📫 欢迎联系我
 随时欢迎探讨学术合作、开源项目或技术交流！
-* **个人主页:** [https://zlyd-cv.github.io/](https://zlyd-cv.github.io/)
+* **个人主页:** [https://zlyd-cv.github.io/](https://zlyd-cv.github.io/)(暂时停止更新)
 * **Email:** [zhoulyd@126.com](mailto:zhoulyd@126.com) | [zhouluoyidi@gmail.com](mailto:zhouluoyidi@gmail.com)
 * **WeChat:** zlyd-CV
 
 ---
 <div align="center">
-    <p><i>最后更新于: 2026年4月22日</i></p>
+    <p><i>最后更新于: 2026年5月11日</i></p>
 </div>
