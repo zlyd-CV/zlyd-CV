@@ -97,7 +97,7 @@ Always open to discussing academic cooperation, open-source projects, or tech ex
 随时欢迎探讨学术合作、开源项目或技术交流！
 * **个人主页:** [https://zlyd-cv.github.io/](https://zlyd-cv.github.io/)
 * **Email:** [zhoulyd@126.com](mailto:zhoulyd@126.com) | [zhouluoyidi@gmail.com](mailto:zhouluoyidi@gmail.com)
-* **WeChat:** 19144210452
+* **WeChat:** zlyd-CV
 
 ---
 <div align="center">
